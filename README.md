@@ -11,6 +11,14 @@ Publisher:
 	Prefix: dcrm
 ![image](https://user-images.githubusercontent.com/73215047/141625885-9b80bac6-896a-4126-880e-f6f1fa9ad0ef.png)
  
+ DEVOPS-
+ Implemented the DevpoS pipeline for Solution movement from Dev environemnt to QA. You can find the Devops at - https://dev.azure.com/Tech-Assignment/Tech-Assignment.
+ We have some limitation on trial instance from the Microsoft side to run this pipeline.Due to them I am unable to run it succesfully. But I am confident enough that this will run once we get the licenes from the Microsoft.
+ ![image](https://user-images.githubusercontent.com/73215047/141657983-12afbfd1-b765-4cc4-a94e-301c24e50e6d.png)
+
+ 
+ 
+ 
  
 Details: 
 1. I have created the 2 Auto number fields as below
