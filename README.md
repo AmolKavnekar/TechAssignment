@@ -57,6 +57,7 @@ Details:
 •	Phone Number : Using OOB phone field.I have added the control  inputmask.
 	
 	
+![image](https://user-images.githubusercontent.com/73215047/141658622-953d3927-436a-4c68-a226-43ac0a6cd740.png)
 
  
 
