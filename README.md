@@ -100,6 +100,12 @@ accountLibrary.js –
 	This web resource is used to fetch the data from Postcode.io API based on the postal code. 
 
 
+3.Workflows: 
+DCRM: Account – Send Welcome Email –
+	When you account is created using this workflow I am sending the  welcome email to customer.
+	Created the email template “Welcome Email” to send the email. 
+ 
+
 
 	
 
