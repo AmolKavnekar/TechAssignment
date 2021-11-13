@@ -40,17 +40,23 @@ Details:
 
 
 3. Validation:
-•	Email: Using OOB email field. No need to add any other validation other than blank data while     creating record.  
+•	Email: Using OOB email field. No need to add any other validation other than blank data while creating record.  
+
 •	Name: Name is Mandatory Field.
+
 •	Address: Using OOB address1 field.
+
 •	Account Type: I am using Category field as a Account type field.
+
 	 ![image](https://user-images.githubusercontent.com/73215047/141626439-b605bd58-bff0-4718-a65c-6a938db0129c.png)
 
 •	Currency: Using OOB currency field. To update the currency exchange rate, I have scheduled the power automate job (DCRM : Currencies - Update Exchange Rate) using · exchangeratesapi.io API. Currently I have scheduled it to run once in a day, we can run the job as per our requirement. The flow is residing in the solution named DCRM: Flows
+
  ![image](https://user-images.githubusercontent.com/73215047/141626607-ace80c0e-ad44-4d0d-acdd-76147c420c55.png)
 
-
-•	Assistant: 
+•	Phone Number : Using OOB phone field.I have added the control  inputmask.
+	
+	
 
  
 
