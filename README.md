@@ -105,6 +105,7 @@ DCRM: Account – Send Welcome Email –
 	When you account is created using this workflow I am sending the  welcome email to customer.
 	Created the email template “Welcome Email” to send the email. 
  
+![image](https://user-images.githubusercontent.com/73215047/141648790-77228c17-cc9c-4c5d-8d1b-98bd69dd8a7f.png)
 
 
 	
