@@ -6,10 +6,13 @@ Solutions:
 •	DCRM: Flows – It includes the all the power Automate we can build during the implementation.
 ![image](https://user-images.githubusercontent.com/73215047/141625647-2633eeb4-2381-455e-a8cc-b9caccb81aba.png)
  
+ 
 Publisher:
 	Name: DCRM Tech Assignment 
 	Prefix: dcrm
+	
 ![image](https://user-images.githubusercontent.com/73215047/141625885-9b80bac6-896a-4126-880e-f6f1fa9ad0ef.png)
+ 
  
  DEVOPS-
  Implemented the DevpoS pipeline for Solution movement from Dev environemnt to QA. You can find the Devops at - https://dev.azure.com/Tech-Assignment/Tech-Assignment.
