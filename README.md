@@ -146,7 +146,12 @@ DCRM: Account – Send Welcome Email –
  
 
 
-
+Azure Blob Storage : 
+	As I am using trial instance I don't have the capability to create theAzure storage account. Hence unbale to implement the same.But i Have written steps hoe we can acheive the same.
+		1. Download Solution : We can download the Attachment Management solution form the market place. Its free and developed by the Microsoft.
+		2.Azure Configuration : Create a container within Azure Blob storage. This will be entered in the Dynamics 365 configuration so the system knows that any attachments will be stored within that container, which sits in Azure.
+		3.Dynamics Configuration: Install the downloaded solution. We can configure how Dynamics will be communicating with Azure Blob Storage. This consists of Storage Account Name, Azure SAS Token, the notes and email attachments containers and an optional GUID field.After configuring Azure Blob Storage set up within Dynamics 365, the admin will now have to enable the entities that will be using this add-on to upload documents and attachments
+			we can look at how to enable the functionality so end-users are able to upload multiple files onto the form using the web resources provided by the solution. These web resources are: msdyn_filesandattachments.html and msdyn_multiple_uploads.html.
 
 
 
