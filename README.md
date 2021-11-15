@@ -130,6 +130,14 @@ DCRM: Account – Send Welcome Email –
 
 	
 
+4.Custom Entities :
+
+	Created custom entity named as "Assistant" which is act as master data for assistant.
+
+	Created Assistant lookup field on the account form.
+	
+![image](https://user-images.githubusercontent.com/73215047/141745538-1ce7cbc2-6981-4531-b651-121f4b9e2f93.png)
+
  
 
 
