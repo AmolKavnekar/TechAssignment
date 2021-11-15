@@ -59,7 +59,12 @@ Details:
 	
 ![image](https://user-images.githubusercontent.com/73215047/141658622-953d3927-436a-4c68-a226-43ac0a6cd740.png)
 
- 
+ •	Assistant : I have created the custom entity named "Assistant" with the Phone number and Email fields.
+ 		     Created the lookup on the Account enitity of Assiatant name field. Also created the phone and email field.
+		     Once we select the Assistant on the account name. Phone and Email will auto populate from the Assistant entity.I have develop the Java Script code.
+ 
+ ![image](https://user-images.githubusercontent.com/73215047/141791949-c6ea6b6d-26e8-4e15-921e-d755351a5072.png)
+
 
 
 4. Searching for existing accounts:
