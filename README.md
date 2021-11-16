@@ -4,7 +4,13 @@ Solutions:
 •	DCRM: Configuration – All the configuration changes and web resources the added here 
 •	DCRM: Apps - I have created the Separate Model driven app named DCRM Assignment for this implementation. We can add multiple Apps inside this solution.
 •	DCRM: Flows – It includes the all the power Automate we can build during the implementation.
+
 ![image](https://user-images.githubusercontent.com/73215047/141625647-2633eeb4-2381-455e-a8cc-b9caccb81aba.png)
+
+I have also check the issues while exporting the solution.
+
+![image](https://user-images.githubusercontent.com/73215047/141941420-9b5ddf3e-502e-47dd-9bc4-3754d4e1e8b4.png)
+
  
  
 Publisher:
