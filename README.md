@@ -1,4 +1,5 @@
 # TechAssignment
+
 Solutions: 
 	I have created the three solutions as follows:
 •	DCRM: Configuration – All the configuration changes and web resources the added here 
@@ -166,6 +167,31 @@ Azure Blob Storage :
 
 we can look at how to enable the functionality so end-users are able to upload multiple files onto the form using the web resources provided by the solution. These web resources are: msdyn_filesandattachments.html and msdyn_multiple_uploads.html.
 
+
+Screen Shots:
+I have created the model driven app "DCRM Assignment".
+
+![image](https://user-images.githubusercontent.com/73215047/141951029-2cbdaba0-4c43-4193-90ca-ad7231e93e57.png)
+
+Account :
+
+![image](https://user-images.githubusercontent.com/73215047/141951593-4670c26b-90c2-478f-afc6-7e64e915a961.png)
+
+Created the 4 views as follows
+
+![image](https://user-images.githubusercontent.com/73215047/141951668-8f40206a-7f5c-4156-84c8-cc07f643ffd2.png)
+
+Edit Account :
+
+![image](https://user-images.githubusercontent.com/73215047/141951719-eb6cdf40-7458-4b47-8e0d-3ebfbcfa103d.png)
+
+![image](https://user-images.githubusercontent.com/73215047/141951769-154b52c7-4f2a-4c5e-84ed-42933d7b39a8.png)
+
+ Navigation :
+
+![image](https://user-images.githubusercontent.com/73215047/141951835-396a284f-904b-4d19-a444-cd4297371b1e.png)
+
+![image](https://user-images.githubusercontent.com/73215047/141951873-20d90f67-9f8b-4d9b-85b9-11e5abc11155.png)
 
 
       
