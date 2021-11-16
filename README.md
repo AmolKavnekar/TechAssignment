@@ -37,12 +37,16 @@ Details:
 •	Account Number
 
 2. Avoid Duplicate Record: 
+
     I have created the alternate keys to restrict creation of a new account with the same details. We could have used duplicate detection rule, but DDR will ultimately allow to create duplicate record if user select the ignore and save option, so I have unpublished the existing duplicate detection rules.
     Duplicate detection rule has following limitations
 •	It works only for tables and not for phones, doesn’t work when lead is converted to account or contact using qualify button
 •	There can be only 5 duplicate detection rules per entity.
+
+
  ![image](https://user-images.githubusercontent.com/73215047/141626251-d5b96736-e801-49ae-9377-52e6e9eeeef9.png)
 
+I have created the plugin to avoid duplicate records on Name and address field. As we cannot create the alternate key for the same.(DCRM.Account.RestrictDuplicatecreation.Plugin) 
 
 
 3. Validation:
