@@ -54,11 +54,11 @@ I have created the plugin to avoid duplicate records on Name and address field. 
 
 •	Name: Name is Mandatory Field.
 
-•	Address: Using OOB address1 field.
+•	Address: Using OOB address1 field. Also Implment the Postcodes API integration to get the complete address based on the Postcode. You need to type the postcode and on chnage of the postal code fields javascript will trigger  get the address and populate the same in the respective fields.
 
 •	Account Type: I am using Category field as a Account type field.
 
-	 ![image](https://user-images.githubusercontent.com/73215047/141626439-b605bd58-bff0-4718-a65c-6a938db0129c.png)
+ ![image](https://user-images.githubusercontent.com/73215047/141626439-b605bd58-bff0-4718-a65c-6a938db0129c.png)
 
 •	Currency: Using OOB currency field. To update the currency exchange rate, I have scheduled the power automate job (DCRM : Currencies - Update Exchange Rate) using · exchangeratesapi.io API. Currently I have scheduled it to run once in a day, we can run the job as per our requirement. The flow is residing in the solution named DCRM: Flows
 
