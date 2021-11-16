@@ -132,8 +132,7 @@ DCRM: Account – Send Welcome Email –
  
 ![image](https://user-images.githubusercontent.com/73215047/141648790-77228c17-cc9c-4c5d-8d1b-98bd69dd8a7f.png)
 
-Note: I could use the Power Automate also to acheive the same but currently we need to perform the extra steps to get email template.So i have choose the workflow.If we dont want  to use the email template then Power automate is the perfect choice.
-	
+Note: I could use the Power Automate also to acheive the same but currently we need to perform the extra steps to get email template.
 
 4.Custom Entities :
 
