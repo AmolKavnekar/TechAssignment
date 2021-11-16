@@ -54,7 +54,7 @@ I have created the plugin to avoid duplicate records on Name and address field. 
 
 •	Name: Name is Mandatory Field.
 
-•	Address: Using OOB address1 field. Also Implment the Postcodes API integration to get the complete address based on the Postcode. You need to type the postcode and on chnage of the postal code fields javascript will trigger  get the address and populate the same in the respective fields.
+•	Address: Using OOB address1 field. Also Implment the Postcodes API integration to get the complete address based on the Postcode. You need to type the postcode and on chnage of the postal code fields javascript will trigger  get the address and populate the same in the respective fields.- (accountLibrary.js)
 
 •	Account Type: I am using Category field as a Account type field.
 
